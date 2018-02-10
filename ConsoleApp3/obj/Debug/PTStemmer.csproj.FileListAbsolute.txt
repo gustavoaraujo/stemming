@@ -1,0 +1,8 @@
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\PTStemmer_v2.dll
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\RestSharp.dll
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\RestSharp.xml
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
